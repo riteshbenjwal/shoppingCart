@@ -58,4 +58,6 @@ function CartItem1({ item, adjustQty, removeFromCart }) {
     )
 }
 
+
+
 export default CartItem1;

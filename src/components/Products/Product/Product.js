@@ -73,4 +73,15 @@ function Product2({ product, addToCart, loadCurrentItem }) {
     )
 }
 
+
+const mapDispatchToProps = (dispatch) => {
+ return{
+   
+ }
+
+
+
+}
+
+
 export default Product2
